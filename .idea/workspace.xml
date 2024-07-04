@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="initial commit">
-      <changelist_data name="HxCoderWarrior" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/ML_Study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.ML_Introduce.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Classification_ML_algorithms.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/1.2.Classification_ML_algorithms.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/1.3.Model_Evaluation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/1.4.Azure_ML_Model_Experiments.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/1.5.Deep_Learning_Introduce.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base/Independent_identically_distributed.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.ML_Introduce.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Base/1.1.ML_Introduce.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Classification_ML_algorithms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Base/Environment_Build.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,12 @@
       <list>
         <option value="HxCoderWarrior" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -71,6 +76,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\AI\Machine_learning\ML_Study\Base" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,8 +98,17 @@
       <option name="presentableId" value="Default" />
       <updated>1720075652578</updated>
       <workItem from="1720075653918" duration="99000" />
-      <workItem from="1720075761430" duration="9013000" />
+      <workItem from="1720075761430" duration="20606000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1720084887812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720084887813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
