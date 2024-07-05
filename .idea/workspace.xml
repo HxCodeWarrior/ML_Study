@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="K-narest neighbor algorithm commit">
+    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="K-nearest neighbor algorithm commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +106,7 @@
       <updated>1720075652578</updated>
       <workItem from="1720075653918" duration="99000" />
       <workItem from="1720075761430" duration="29120000" />
-      <workItem from="1720135273220" duration="14497000" />
+      <workItem from="1720135273220" duration="15261000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720149688322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="K-nearest neighbor algorithm commit">
+      <option name="closed" value="true" />
+      <created>1720150733061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720150733061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,8 +180,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提一次提交" />
     <MESSAGE value="initial commit" />
-    <MESSAGE value="K-nearest neighbor algorithm commit" />
     <MESSAGE value="K-narest neighbor algorithm commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="K-narest neighbor algorithm commit" />
+    <MESSAGE value="K-nearest neighbor algorithm commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="K-nearest neighbor algorithm commit" />
   </component>
 </project>
