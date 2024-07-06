@@ -1,0 +1,9 @@
+Index: requirement.txt
+===================================================================
+diff --git a/requirement.txt b/requirement.txt
+deleted file mode 100644
+--- a/requirement.txt	(revision 052c7a8ce09b6c26fad30c255f9e9764491318c5)
++++ /dev/null	(revision 052c7a8ce09b6c26fad30c255f9e9764491318c5)
+@@ -1,1 +0,0 @@
+-ipykernel
+\ No newline at end of file
