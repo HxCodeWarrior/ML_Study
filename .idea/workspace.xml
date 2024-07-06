@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="K-nearest neighbor algorithm commit">
-      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.5.kd树案例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.6 鸢尾花数据种类预测.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/鸢尾花.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/kd树构建1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/kd树构建2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/最近邻域搜索.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/案例1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/案例2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/鸢尾花数据集.png" afterDir="false" />
+    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="K-nearest neighbor algorithm Second commit">
+      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.7 特征工程-特征预处理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.8 KNN算法总结.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.9 交叉验证&amp;网格搜索.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/案例1.鸢尾花种类预测—流程实现.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/鸢尾花种类预测调优.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/交叉验证.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/归一化公式-解释.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/归一化图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/标准化图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/特征预处理-归一化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/网格搜索.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.2.K-近邻算法初步使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.2.K-近邻算法初步使用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.5.kd树.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/2.5.kd树.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/鸢尾花.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/鸢尾花种类预测流程.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.鸢尾花.executor": "Run",
+    "Python.鸢尾花种类预测流程.executor": "Run",
+    "Python.鸢尾花种类预测调优.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -122,7 +124,8 @@
       <workItem from="1720075653918" duration="99000" />
       <workItem from="1720075761430" duration="29120000" />
       <workItem from="1720135273220" duration="24804000" />
-      <workItem from="1720187158914" duration="9811000" />
+      <workItem from="1720187158914" duration="9989000" />
+      <workItem from="1720226939634" duration="10763000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -172,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720151982873</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="K-nearest neighbor algorithm Second commit">
+      <option name="closed" value="true" />
+      <created>1720199923962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720199923962</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,9 +217,10 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="K-narest neighbor algorithm commit" />
     <MESSAGE value="K-nearest neighbor algorithm commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="K-nearest neighbor algorithm commit" />
+    <MESSAGE value="K-nearest neighbor algorithm Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="K-nearest neighbor algorithm Second commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ML_Study$.coverage" NAME="鸢尾花 覆盖结果" MODIFIED="1720196350676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
+    <SUITE FILE_PATH="coverage/ML_Study$.coverage" NAME="鸢尾花种类预测调优 覆盖结果" MODIFIED="1720237352755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
   </component>
 </project>
