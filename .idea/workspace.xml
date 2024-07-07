@@ -5,38 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Fourth commit">
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.1.Linear_Regression_introduce.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.2.线性回归API初步使用.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/facebook-vpredicting-check-ins/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/facebook-vpredicting-check-ins/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/单变量线性关系-房价图解.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/多变量线性关系-房价图解.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/温度举例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/线性回归举例矩阵形式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/线性回归举例矩阵形式列的解释.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/线性回归矩阵表示举例.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/线性回归通用公式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/线性回归通用公式wx矩阵解释.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="fea46e89-dc0a-451d-90af-3bf96349bda4" name="删除" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Update_2024_7_5_12_40____.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行Update之前于_2024_7_5_上午12_40_取消提交了更改_[更改]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/10折交叉验证演示图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/kd树构建1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/kd树构建1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/kd树构建2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/kd树构建2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/交叉验证.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/交叉验证.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/归一化公式-解释.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/归一化公式-解释.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/归一化图.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/归一化图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/最近邻域搜索.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/最近邻域搜索.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/标准化图.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/标准化图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/案例1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/案例1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/案例2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/案例2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/特征预处理-归一化.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/特征预处理-归一化.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/网格搜索.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/网格搜索.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/k-近邻算法/鸢尾花数据集.png" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Pictures/K-nearest_Neighbor_Algorithm/鸢尾花数据集.png" afterDir="false" />
-    </list>
+    <list id="fea46e89-dc0a-451d-90af-3bf96349bda4" name="删除" comment="Fourth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +34,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -86,23 +58,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Facebook位置预测.executor": "Run",
-    "Python.鸢尾花.executor": "Run",
-    "Python.鸢尾花种类预测流程.executor": "Run",
-    "Python.鸢尾花种类预测调优.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Facebook位置预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测流程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测调优.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm\Examples" />
@@ -148,7 +120,9 @@
       <workItem from="1720075761430" duration="29120000" />
       <workItem from="1720135273220" duration="24804000" />
       <workItem from="1720187158914" duration="9989000" />
-      <workItem from="1720226939634" duration="40873000" />
+      <workItem from="1720226939634" duration="42229000" />
+      <workItem from="1720279108273" duration="5164000" />
+      <workItem from="1720317828617" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -238,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720271545144</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fourth commit">
+      <option name="closed" value="true" />
+      <created>1720277343536</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720277343536</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fourth commit">
+      <option name="closed" value="true" />
+      <created>1720277569799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720277569799</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +245,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -275,6 +265,7 @@
     <MESSAGE value="K-nearest neighbor algorithm Second commit" />
     <MESSAGE value="K-nearest neighbor algorithm third commit" />
     <MESSAGE value="Forthly commit" />
+    <MESSAGE value="删除" />
     <MESSAGE value="Fourth commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
   </component>
