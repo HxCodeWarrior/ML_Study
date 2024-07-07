@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Fourth commit">
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.3.线性回归的损失和优化.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Linear_Regression/3.2.线性回归API初步使用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Linear_Regression/3.2.线性回归API初步使用.ipynb" afterDir="false" />
     </list>
-    <list id="fea46e89-dc0a-451d-90af-3bf96349bda4" name="删除" comment="Fourth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +50,9 @@
     &quot;accountId&quot;: &quot;badad308-7c3f-4f2d-9ee3-814a40340bc4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -239,19 +243,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
