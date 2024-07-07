@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.6.梯度下降VS正规方程.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.7.梯度下降算法介绍.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Linear_Regression/3.5.使用梯度下降法对损失函数进行优化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Linear_Regression/3.5.使用梯度下降法对损失函数进行优化.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +93,11 @@
       <visibility group="Gulp" flag="true" />
       <visibility group="HTTP Requests" flag="true" />
       <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run Python file" flag="true" />
+      <visibility group="Run conda command" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="Run pip command" flag="true" />
       <visibility group="npm" flag="true" />
       <visibility group="yarn" flag="true" />
       <visibility group="最近的项目" flag="true" />
@@ -240,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720332527484</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720337811059</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720337811059</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
