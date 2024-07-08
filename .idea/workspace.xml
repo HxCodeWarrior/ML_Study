@@ -5,6 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.8.线性回归API再介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.9.欠拟合和过拟合介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Examples/案例1：房价预测--梯度下降.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Examples/案例1：房价预测--正规方程.png.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Examples/案例1：房价预测.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Expand/拓展1：梯度下降算法比较和进一步介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Expand/拓展2：维灾难.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/boston_house_prices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/dating.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-08 233732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-08 234605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 000357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002243.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002525.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002534.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002549.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/房价预测-回归性能评估.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/正则化-如何解决.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/正则化解决拟合方案图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/过拟合与欠拟合图解.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.Linear_Regression/3.7.梯度下降算法介绍.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Linear_Regression/3.7.梯度下降算法介绍.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,30 +85,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Facebook位置预测.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花种类预测流程.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花种类预测调优.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Facebook位置预测.executor": "Run",
+    "Python.案例1：房价预测--梯度下降.executor": "Run",
+    "Python.案例1：房价预测--正规方程.png.executor": "Run",
+    "Python.鸢尾花.executor": "Run",
+    "Python.鸢尾花种类预测流程.executor": "Run",
+    "Python.鸢尾花种类预测调优.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/study/AI/Machine_learning/ML_Study/Data/data_house_price",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\AI\Machine_learning\ML_Study\Data\data_house_price" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\AI\Machine_learning\ML_Study\Data" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm\Examples" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm\Expand" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\Sources\Pictures\k-近邻算法" />
-      <recent name="D:\study\AI\Machine_learning\ML_Study\Base" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -118,7 +149,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="" />
-      <changelist id="fea46e89-dc0a-451d-90af-3bf96349bda4" name="删除" comment="" />
       <created>1720075652578</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -130,6 +160,9 @@
       <workItem from="1720226939634" duration="42229000" />
       <workItem from="1720279108273" duration="5164000" />
       <workItem from="1720317828617" duration="1338000" />
+      <workItem from="1720420974868" duration="1842000" />
+      <workItem from="1720426779391" duration="8009000" />
+      <workItem from="1720446652646" duration="9866000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -259,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720358515886</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720359021097</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720359021097</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +331,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML_Study$1___png.coverage" NAME="案例1：房价预测--正规方程.png 覆盖结果" MODIFIED="1720450495705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
     <SUITE FILE_PATH="coverage/ML_Study$.coverage" NAME="鸢尾花种类预测调优 覆盖结果" MODIFIED="1720237352755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
     <SUITE FILE_PATH="coverage/ML_Study$Facebook.coverage" NAME="Facebook位置预测 覆盖结果" MODIFIED="1720256075340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/Examples" />
+    <SUITE FILE_PATH="coverage/ML_Study$1__.coverage" NAME="案例1：房价预测--梯度下降 覆盖结果" MODIFIED="1720451032946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
   </component>
 </project>
