@@ -5,3 +5,4 @@ tables == 3.9.2
 jupyter == 1.0.0
 scikit-learn == 1.5.1
 seaborn == 0.13.2
+ucimlrepo == 0.0.7

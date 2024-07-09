@@ -5,22 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.10.正则化线性模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.11.线性回归的改进--岭回归.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/3.12.模型保存和加载.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Examples/案例1：房价预测--岭回归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Linear_Regression/Examples/案例2：模型的保存和加载.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/Lasso回归的代价函数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/Lasso回归的次梯度向量.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/内切超球体体积.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/岭回归代价函数1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/岭回归代价函数2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/岭回归方程添加项.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/弹性网络的代价函数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/高维空间实例分布图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/4.1.逻辑回归介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/4.2.逻辑回归API介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/4.3.分类评估方法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Examples/案例1-肿瘤分类预测.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Examples/案例1-肿瘤分类预测解析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Examples/肿瘤分类预测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/Index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/breast-cancer-wisconsin.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/breast-cancer-wisconsin.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/unformatted-data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/wdbc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/wdbc.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/wpbc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Breast_Cancer_Wisconsin/wpbc.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/完整损失函数理解应用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/sigmoid激活函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/召回率图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/完整损失函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/完整损失函数理解应用.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/对数似然损失公式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/对数似然损失公式理解图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/混淆矩阵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/精确率图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/逻辑回归评判标准图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/逻辑回归输入.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/逻辑回归过程图解.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Linear_Regression/Expand/拓展2：维灾难.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Linear_Regression/Expand/拓展2：维灾难.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sources/Pictures/Linear_Regression/屏幕截图 2024-07-09 002549.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/案例1.鸢尾花种类预测—流程实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/Examples/案例1.鸢尾花种类预测—流程实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/案例2.Facebook位置预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/Examples/案例2.Facebook位置预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -82,6 +96,7 @@
     "Python.案例1：房价预测--梯度下降.executor": "Run",
     "Python.案例1：房价预测--正规方程.png.executor": "Run",
     "Python.案例2：模型的保存和加载.executor": "Run",
+    "Python.肿瘤分类预测.executor": "Run",
     "Python.鸢尾花.executor": "Run",
     "Python.鸢尾花种类预测流程.executor": "Run",
     "Python.鸢尾花种类预测调优.executor": "Run",
@@ -102,11 +117,11 @@
       <recent name="D:\study\AI\Machine_learning\ML_Study\Data\data_house_price" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\study\AI\Machine_learning\ML_Study\Data" />
+      <recent name="D:\study\AI\Machine_learning\ML_Study\4.Logical_Regression\Examples" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm\Examples" />
+      <recent name="D:\study\AI\Machine_learning\ML_Study\Data" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm" />
       <recent name="D:\study\AI\Machine_learning\ML_Study\2.K-nearest_Neighbor_Algorithm\Expand" />
-      <recent name="D:\study\AI\Machine_learning\ML_Study\Sources\Pictures\k-近邻算法" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -156,7 +171,7 @@
       <workItem from="1720420974868" duration="1842000" />
       <workItem from="1720426779391" duration="8009000" />
       <workItem from="1720446652646" duration="10377000" />
-      <workItem from="1720488507446" duration="11507000" />
+      <workItem from="1720488507446" duration="22225000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -302,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720457142813</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720501396530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1720501396530</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,8 +358,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ML_Study$1___png.coverage" NAME="案例1：房价预测--正规方程.png 覆盖结果" MODIFIED="1720450495705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
-    <SUITE FILE_PATH="coverage/ML_Study$.coverage" NAME="鸢尾花种类预测调优 覆盖结果" MODIFIED="1720237352755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
     <SUITE FILE_PATH="coverage/ML_Study$2.coverage" NAME="案例2：模型的保存和加载 覆盖结果" MODIFIED="1720501288891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
+    <SUITE FILE_PATH="coverage/ML_Study$.coverage" NAME="肿瘤分类预测 覆盖结果" MODIFIED="1720509690113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.Logical_Regression/Examples" />
     <SUITE FILE_PATH="coverage/ML_Study$Facebook.coverage" NAME="Facebook位置预测 覆盖结果" MODIFIED="1720256075340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/Examples" />
     <SUITE FILE_PATH="coverage/ML_Study$1__.coverage" NAME="案例1：房价预测--岭回归 覆盖结果" MODIFIED="1720499544137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
   </component>
