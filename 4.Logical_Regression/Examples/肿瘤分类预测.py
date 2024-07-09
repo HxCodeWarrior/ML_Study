@@ -4,7 +4,7 @@ import pandas as pd  # 获取数据集，处理数据
 from sklearn.model_selection import train_test_split  # 数据集分割
 from sklearn.preprocessing import StandardScaler  # 特征工程--标准化
 from sklearn.linear_model import LogisticRegression  # 机器学习--逻辑回归
-from sklearn.metrics import mean_squared_error  # 模型评估
+from sklearn.metrics import mean_squared_error, classification_report, roc_auc_score  # 模型评估
 
 # 1.获取数据集
 columns_names = ["Sample_code_number", "Clump_thickness", "Uniformity_of_cell_size",
@@ -41,7 +41,12 @@ estimator.fit(x_train, y_train)
 
 # 5.模型评估
 y_predict = estimator.predict(x_test)
-ret = mean_squared_error(y_test, y_predict)
+ret1 = mean_squared_error(y_test, y_predict)
+ret2 = classification_report(y_test, y_predict, labels=[2, 4], target_names=("良性", "恶性"))
+y_test = np.where(y_test > 3, 1, 0)
+ret3 = roc_auc_score(y_test, y_predict)
 print("预测值：\n", y_predict)
 print("准确率：", estimator.score(x_test, y_test))
-print("模型均方误差：", ret)
+print("模型均方误差：", ret1)
+print("召回率评价：\n", ret2)
+print("模型AUC指标：", ret3)
