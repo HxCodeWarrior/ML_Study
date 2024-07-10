@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/4.3.分类评估方法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/4.4.ROC曲线绘制.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/F1-score.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/ROC曲线图像.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/ROC曲线绘制-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/ROC曲线绘制-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/ROC曲线绘制-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/概率排序-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/概率排序-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/概率排序-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Expand/拓展1：分类中解决不平衡问题.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Expand/拓展2：分类中解决类别不平衡问题--方法介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.1.决策树算法简介.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.1.决策树分类原理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.2.决策树分类原理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.3.决策树分类原理.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.3.为什么使用C4.5要好.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式详解-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式详解-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益案例1计算-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/SMOTE公式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Logical_Regression/Examples/肿瘤分类预测.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.Logical_Regression/Examples/肿瘤分类预测.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Logical_Regression/4.4.ROC曲线绘制.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.Logical_Regression/4.4.ROC曲线绘制.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,29 +79,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Facebook位置预测.executor": "Run",
-    "Python.案例1：房价预测--岭回归.executor": "Run",
-    "Python.案例1：房价预测--梯度下降.executor": "Run",
-    "Python.案例1：房价预测--正规方程.png.executor": "Run",
-    "Python.案例2：模型的保存和加载.executor": "Run",
-    "Python.肿瘤分类预测.executor": "Run",
-    "Python.鸢尾花.executor": "Run",
-    "Python.鸢尾花种类预测流程.executor": "Run",
-    "Python.鸢尾花种类预测调优.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/study/AI/Machine_learning/ML_Study/Data/data_house_price",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Facebook位置预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--岭回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--梯度下降.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--正规方程.png.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例2：模型的保存和加载.executor&quot;: &quot;Run&quot;,
+    &quot;Python.肿瘤分类预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测流程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测调优.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/AI/Machine_learning/ML_Study/Data/data_house_price&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\AI\Machine_learning\ML_Study\Data\data_house_price" />
@@ -153,7 +161,9 @@
       <workItem from="1720420974868" duration="1842000" />
       <workItem from="1720426779391" duration="8009000" />
       <workItem from="1720446652646" duration="10377000" />
-      <workItem from="1720488507446" duration="28234000" />
+      <workItem from="1720488507446" duration="28534000" />
+      <workItem from="1720579108715" duration="12491000" />
+      <workItem from="1720612890045" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -315,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720512256048</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720518343698</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1720518343698</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
