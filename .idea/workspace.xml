@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Expand/拓展1：分类中解决不平衡问题.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.Logical_Regression/Expand/拓展2：分类中解决类别不平衡问题--方法介绍.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.1.决策树算法简介.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.1.决策树分类原理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.2.决策树分类原理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.3.决策树分类原理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.3.为什么使用C4.5要好.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式详解-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益公式详解-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/信息增益案例1计算-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/SMOTE公式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Logical_Regression/随机过采样图解-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策-C4.5决策树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/屏幕截图 2024-07-10 214350.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-C4.5决策树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-ID3决策树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-信息熵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-基尼值.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-基尼指数CART决策树.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Logical_Regression/4.4.ROC曲线绘制.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.Logical_Regression/4.4.ROC曲线绘制.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +87,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -163,7 +152,9 @@
       <workItem from="1720446652646" duration="10377000" />
       <workItem from="1720488507446" duration="28534000" />
       <workItem from="1720579108715" duration="12491000" />
-      <workItem from="1720612890045" duration="6433000" />
+      <workItem from="1720612890045" duration="7052000" />
+      <workItem from="1720620157986" duration="707000" />
+      <workItem from="1720620928829" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -333,18 +324,75 @@
       <option name="project" value="LOCAL" />
       <updated>1720518343698</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720619715897</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1720619715897</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="hash">
+                    <value>
+                      <list>
+                        <option value="953fe16a44a890a6d87ecefb7298f9e3b95a8e86" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                        <option value="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="953fe16a44a890a6d87ecefb7298f9e3b95a8e86 " />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
