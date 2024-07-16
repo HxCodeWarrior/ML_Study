@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策-C4.5决策树.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/屏幕截图 2024-07-10 214350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-C4.5决策树.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-ID3决策树.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-信息熵.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-基尼值.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/总结-基尼指数CART决策树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.4.cart剪枝.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.5.1.特征工程--特征提取.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.5.2.Tf-idf文本特征提取.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.5.3.特征提取小结.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.6.决策树算法API.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Update_2024_7_5_12_40____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行Update之前于_2024_7_5_上午12_40_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.2.4.决策树分类原理小结.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,9 @@
     &quot;accountId&quot;: &quot;badad308-7c3f-4f2d-9ee3-814a40340bc4&quot;
   }
 }</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -68,29 +71,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Facebook位置预测.executor&quot;: &quot;Run&quot;,
-    &quot;Python.案例1：房价预测--岭回归.executor&quot;: &quot;Run&quot;,
-    &quot;Python.案例1：房价预测--梯度下降.executor&quot;: &quot;Run&quot;,
-    &quot;Python.案例1：房价预测--正规方程.png.executor&quot;: &quot;Run&quot;,
-    &quot;Python.案例2：模型的保存和加载.executor&quot;: &quot;Run&quot;,
-    &quot;Python.肿瘤分类预测.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花种类预测流程.executor&quot;: &quot;Run&quot;,
-    &quot;Python.鸢尾花种类预测调优.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/AI/Machine_learning/ML_Study/Data/data_house_price&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;tasks.servers&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Facebook位置预测.executor": "Run",
+    "Python.案例1：房价预测--岭回归.executor": "Run",
+    "Python.案例1：房价预测--梯度下降.executor": "Run",
+    "Python.案例1：房价预测--正规方程.png.executor": "Run",
+    "Python.案例2：模型的保存和加载.executor": "Run",
+    "Python.肿瘤分类预测.executor": "Run",
+    "Python.鸢尾花.executor": "Run",
+    "Python.鸢尾花种类预测流程.executor": "Run",
+    "Python.鸢尾花种类预测调优.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/study/AI/ultralytics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\AI\Machine_learning\ML_Study\Data\data_house_price" />
@@ -154,7 +157,10 @@
       <workItem from="1720579108715" duration="12491000" />
       <workItem from="1720612890045" duration="7052000" />
       <workItem from="1720620157986" duration="707000" />
-      <workItem from="1720620928829" duration="1330000" />
+      <workItem from="1720620928829" duration="1372000" />
+      <workItem from="1720663492321" duration="702000" />
+      <workItem from="1720930134134" duration="14463000" />
+      <workItem from="1721007100304" duration="11271000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -332,7 +338,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720619715897</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720622279685</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720622279685</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1720622299764</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1720622299764</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,25 +383,11 @@
             <State>
               <option name="FILTERS">
                 <map>
-                  <entry key="hash">
-                    <value>
-                      <list>
-                        <option value="953fe16a44a890a6d87ecefb7298f9e3b95a8e86" />
-                      </list>
-                    </value>
-                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
                         <option value="$PROJECT_DIR$" />
                         <option value="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="text">
-                    <value>
-                      <list>
-                        <option value="953fe16a44a890a6d87ecefb7298f9e3b95a8e86 " />
                       </list>
                     </value>
                   </entry>
