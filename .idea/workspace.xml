@@ -5,48 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.8.回归决策树介绍.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.9.回归决策树与线性回归对比.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.1.集成学习算法简介.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.2.Bagging和随机森岭.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例1：Titanic_survive_pre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Expand/拓展1：无偏估计.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/otto-group-product-classification-challenge/sampleSubmission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/otto-group-product-classification-challenge/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/otto-group-product-classification-challenge/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策回归树案例-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策树回归案例2数据分析-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策树回归案例2数据分析-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策树案例分析2-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策树案例分析2-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/决策树案例分析2-33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树原理公式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树案例-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树案例分析2-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树算法描述-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树算法描述-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Decision_Tree_Algorithm/回归决策树算法描述-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/Bagging集成原理图解-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/Bagging集成原理图解-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/Bagging集成原理图解-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/Bagging集成原理图解-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/Bagging集成原理图解-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/otto数据集.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/otto背景.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/otto评分标准公式.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/otto评分标准公式细节处理.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/包外估计定义.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/包外数据概率计算.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/随机森林构造过程图解.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/集成学习中boosting和Bagging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Ensemble_Learning_Algorithms/集成学习优势简单图解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.3.Boosting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/Runs/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例最优模型.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/Examples/Titanic_survive_pre.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/Examples/Titanic_survive_pre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/Examples/Titanic_tree.dot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/决策树可视化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.Decision_Tree_Algorithm/5.7.决策树可视化.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,12 +73,14 @@
     "Python.案例1：房价预测--梯度下降.executor": "Run",
     "Python.案例1：房价预测--正规方程.png.executor": "Run",
     "Python.案例2：otto案例介绍--Otto Group Product Classification Challenge.executor": "Run",
+    "Python.案例2：otto案例最优模型.executor": "Run",
     "Python.案例2：模型的保存和加载.executor": "Run",
     "Python.肿瘤分类预测.executor": "Run",
     "Python.鸢尾花.executor": "Run",
     "Python.鸢尾花种类预测流程.executor": "Run",
     "Python.鸢尾花种类预测调优.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/study/AI/ultralytics",
     "node.js.detected.package.eslint": "true",
@@ -198,7 +163,9 @@
       <workItem from="1721123528042" duration="5099000" />
       <workItem from="1721134360232" duration="3822000" />
       <workItem from="1721143606825" duration="2000" />
-      <workItem from="1721181296160" duration="37754000" />
+      <workItem from="1721181296160" duration="38081000" />
+      <workItem from="1721233090789" duration="252000" />
+      <workItem from="1721265386355" duration="9395000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -400,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721105000890</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721232893782</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721232893782</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,5 +450,6 @@
     <SUITE FILE_PATH="coverage/ML_Study$Facebook.coverage" NAME="Facebook位置预测 覆盖结果" MODIFIED="1720256075340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.K-nearest_Neighbor_Algorithm/Examples" />
     <SUITE FILE_PATH="coverage/ML_Study$1__.coverage" NAME="案例1：房价预测--岭回归 覆盖结果" MODIFIED="1720499544137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.Linear_Regression/Examples" />
     <SUITE FILE_PATH="coverage/ML_Study$1Titanic_survive_pre.coverage" NAME="案例1：Titanic_survive_pre 覆盖结果" MODIFIED="1721188434764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples" />
+    <SUITE FILE_PATH="coverage/ML_Study$2otto.coverage" NAME="案例2：otto案例最优模型 覆盖结果" MODIFIED="1721268679714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples" />
   </component>
 </project>

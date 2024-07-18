@@ -44,7 +44,9 @@ def data_process(eigen_value, target_value):
     return x_train_data, x_test_data, y_train_data, y_test_data
 
 
-def model_adjust(value_range: list, parameter_name: str, adjust_data: list,
+def model_adjust(value_range: list,
+                 parameter_name: str,
+                 adjust_data: list,
                  random_state=0):
     """
     function:模型调优
@@ -118,7 +120,7 @@ def model_adjust(value_range: list, parameter_name: str, adjust_data: list,
             error_t[k] = log_loss(y_test, y_pre, normalize=True)
             print(f"模型调优{parameter_name}:", error_t)
     elif parameter_name == "max_samples_leaf":
-        for l, one_parameter in enumerate(turned_parameters_data):
+        for m, one_parameter in enumerate(turned_parameters_data):
             rf2 = RandomForestClassifier(
                 n_estimators=adjust_data[0],
                 max_depth=adjust_data[1],
@@ -131,10 +133,10 @@ def model_adjust(value_range: list, parameter_name: str, adjust_data: list,
             # 模型训练
             rf2.fit(x_train, y_train)
             # 输出accuracy
-            accuracy_t[l] = rf2.oob_score_
+            accuracy_t[m] = rf2.oob_score_
             # 输出log_loss
             y_pre = rf2.predict_proba(x_test)
-            error_t[l] = log_loss(y_test, y_pre, normalize=True)
+            error_t[m] = log_loss(y_test, y_pre, normalize=True)
             print(f"模型调优{parameter_name}:", error_t)
     else:
         print("调优参数不在可选范围内！")
@@ -235,28 +237,46 @@ if __name__ == '__main__':
 
     # 模型调优:n_estimator,max_feature,max_depth, min_samples_leaf
     # 1.n_estimator调优
-    turned_parameters, accuracy_t, error_t = model_adjust([10, 200, 5], parameter_name="n_estimators", adjust_data=[10, 10, 10, 10])
+    turned_parameters, accuracy_t, error_t = model_adjust([10, 200, 5],
+                                                          parameter_name="n_estimators",
+                                                          adjust_data=[10, 10, 10, 10])
     # 模型调优过程可视化
-    model_adjust_view(turned_parameters, error_t, accuracy_t, ["n_estimators", "error_t", "n_estimators", "accuracy_t"],
+    model_adjust_view(turned_parameters,
+                      error_t,
+                      accuracy_t,
+                      ["n_estimators", "error_t", "n_estimators", "accuracy_t"],
                       file_name="n_estimator")
 
     # 2.max_feature调优
-    turned_parameters, accuracy_t, error_t = model_adjust([10, 50, 2], parameter_name="max_features", adjust_data=[175, 10, 10, 10])
+    turned_parameters, accuracy_t, error_t = model_adjust([10, 50, 2],
+                                                          parameter_name="max_features",
+                                                          adjust_data=[175, 10, 10, 10])
     # 模型调优过程可视化
-    model_adjust_view(turned_parameters, error_t, accuracy_t, ["max_features", "error_t", "max_features", "accuracy_t"],
+    model_adjust_view(turned_parameters,
+                      error_t,
+                      accuracy_t,
+                      ["max_features", "error_t", "max_features", "accuracy_t"],
                       file_name="max_features")
 
     # 3.max_depth调优
-    turned_parameters, accuracy_t, error_t = model_adjust([10, 100, 5], parameter_name="max_depth", adjust_data=[175, 13, 10, 10])
+    turned_parameters, accuracy_t, error_t = model_adjust([10, 100, 5],
+                                                          parameter_name="max_depth",
+                                                          adjust_data=[175, 13, 10, 10])
     # 模型调优过程可视化
-    model_adjust_view(turned_parameters, error_t, accuracy_t, ["max_depth", "error_t", "max_depth", "accuracy_t"],
+    model_adjust_view(turned_parameters,
+                      error_t,
+                      accuracy_t,
+                      ["max_depth", "error_t", "max_depth", "accuracy_t"],
                       file_name="max_depth")
 
     # 4.max_samples_leaf调优
-    turned_parameters, accuracy_t, error_t = model_adjust([1, 10, 1], parameter_name="max_samples_leaf",
-                 adjust_data=[175, 13, 35, 10])
+    turned_parameters, accuracy_t, error_t = model_adjust([1, 10, 1],
+                                                          parameter_name="max_samples_leaf",
+                                                          adjust_data=[175, 13, 35, 10])
     # 模型调优过程可视化
-    model_adjust_view(turned_parameters, error_t, accuracy_t,
+    model_adjust_view(turned_parameters,
+                      error_t,
+                      accuracy_t,
                       ["max_samples_leaf", "error_t", "max_samples_leaf", "accuracy_t"],
                       file_name="max_samples_leaf")
 
