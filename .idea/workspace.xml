@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.3.Boosting.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/Runs/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例最优模型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.4.GBDT介绍.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例3：GBDT算法实例介绍.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +163,7 @@
       <workItem from="1721143606825" duration="2000" />
       <workItem from="1721181296160" duration="38081000" />
       <workItem from="1721233090789" duration="252000" />
-      <workItem from="1721265386355" duration="9395000" />
+      <workItem from="1721265386355" duration="20899000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -375,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721232893782</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721275258868</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721275258868</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
