@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/6.3.Boosting.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/Runs/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例最优模型.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.Ensemble_Learning_Algorithms/Examples/案例2：otto案例介绍--Otto Group Product Classification Challenge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -64,34 +59,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Facebook位置预测.executor": "Run",
-    "Python.Titanic_survive_pre.executor": "Run",
-    "Python.案例1：Titanic_survive_pre.executor": "Run",
-    "Python.案例1：房价预测--岭回归.executor": "Run",
-    "Python.案例1：房价预测--梯度下降.executor": "Run",
-    "Python.案例1：房价预测--正规方程.png.executor": "Run",
-    "Python.案例2：otto案例介绍--Otto Group Product Classification Challenge.executor": "Run",
-    "Python.案例2：otto案例最优模型.executor": "Run",
-    "Python.案例2：模型的保存和加载.executor": "Run",
-    "Python.肿瘤分类预测.executor": "Run",
-    "Python.鸢尾花.executor": "Run",
-    "Python.鸢尾花种类预测流程.executor": "Run",
-    "Python.鸢尾花种类预测调优.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/study/AI/ultralytics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Facebook位置预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Titanic_survive_pre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：Titanic_survive_pre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--岭回归.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--梯度下降.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例1：房价预测--正规方程.png.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例2：otto案例介绍--Otto Group Product Classification Challenge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例2：otto案例最优模型.executor&quot;: &quot;Run&quot;,
+    &quot;Python.案例2：模型的保存和加载.executor&quot;: &quot;Run&quot;,
+    &quot;Python.肿瘤分类预测.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测流程.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鸢尾花种类预测调优.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/AI/ultralytics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\AI\Machine_learning\ML_Study\Data\data_house_price" />
@@ -165,7 +160,10 @@
       <workItem from="1721143606825" duration="2000" />
       <workItem from="1721181296160" duration="38081000" />
       <workItem from="1721233090789" duration="252000" />
-      <workItem from="1721265386355" duration="9395000" />
+      <workItem from="1721265386355" duration="21059000" />
+      <workItem from="1721352409805" duration="22485000" />
+      <workItem from="1721407958773" duration="720000" />
+      <workItem from="1721439075222" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -375,7 +373,47 @@
       <option name="project" value="LOCAL" />
       <updated>1721232893782</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721275258868</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721275258868</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721320268819</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721320268819</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721376688045</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721376688045</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721406362436</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1721406362436</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721408040650</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1721408040650</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,6 +442,13 @@
             <State>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="roots">
                     <value>
                       <list>
