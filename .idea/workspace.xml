@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit" />
+    <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Data/instacart-market-basket-analysis/order_products__prior.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +371,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721232893782</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721440247613</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721440247613</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721440270321</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721440270321</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721440727191</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721440727191</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
