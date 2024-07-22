@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a552322-7642-4529-8be3-5bcc53df92c7" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Data/instacart-market-basket-analysis/order_products__prior.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Naive_Bayes/Examples/案例2：商品评论情感分析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Naive_Bayes/Examples/案例2：商品评论情感分析步骤分析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/判断crash对自己的喜欢.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/商品评论情感分析数据.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/拉普拉斯平滑系数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/朴素贝叶斯公式文章分类理解.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/案例1数据.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Pictures/Naive_Bayes/贝叶斯公式.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Naive_Bayes/8.1.朴素贝叶斯算法简介.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8.Naive_Bayes/8.1.朴素贝叶斯算法简介.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Naive_Bayes/8.2.概率基础复习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8.Naive_Bayes/8.2.概率基础复习.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Naive_Bayes/Examples/案例1：文章分类--朴素贝叶斯计算.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8.Naive_Bayes/Examples/案例1：文章分类--朴素贝叶斯计算.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +55,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/HxCodeWarrior/ML_Study.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:HxCodeWarrior/ML_Study.git&quot;,
     &quot;accountId&quot;: &quot;badad308-7c3f-4f2d-9ee3-814a40340bc4&quot;
   }
 }</component>
@@ -162,6 +173,9 @@
       <workItem from="1721181296160" duration="38081000" />
       <workItem from="1721233090789" duration="252000" />
       <workItem from="1721265386355" duration="9395000" />
+      <workItem from="1721447374877" duration="5124000" />
+      <workItem from="1721567707123" duration="4402000" />
+      <workItem from="1721614043972" duration="4742000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -395,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721440727191</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721447507485</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1721447507485</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
